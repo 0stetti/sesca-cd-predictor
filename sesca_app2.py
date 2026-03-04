@@ -934,7 +934,11 @@ with st.sidebar:
         "doi: 10.1021/acs.jctc.9b00203</a><br><br>"
         "Nagy & Oostenbrink, JCIM 54, 266-277 (2014)<br>"
         "<a href='https://doi.org/10.1021/ci400541d' style='color: #6b7280;'>"
-        "doi: 10.1021/ci400541d</a>"
+        "doi: 10.1021/ci400541d</a><br><br>"
+        "<b>Interface web:</b><br>"
+        "Elton Ostetti &nbsp;"
+        "<a href='https://orcid.org/0000-0002-3448-2373' style='color: #6b7280;'>"
+        "ORCID: 0000-0002-3448-2373</a>"
         "</small>",
         unsafe_allow_html=True,
     )
